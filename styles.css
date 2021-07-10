@@ -70,3 +70,17 @@ html {
     height: auto;  
     margin: 10%;  
   }
+  #ph1, #ph2, #ph3, #ph4 {
+    margin: 0;      
+  }
+  #p1, #p2, #p3, #p4 {  
+      border: 5px solid red;
+      border-radius: 15px; 
+      box-shadow: 5px 10px white;
+      background: linear-gradient(55deg, purple, pink); 
+      width: 250px;
+      height: 225px; 
+      margin: 15px; 
+      padding: 35px;   
+      position: relative;   
+  }

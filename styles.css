@@ -56,3 +56,17 @@ html {
     width: 75%; 
     height: auto; 
   }
+  #items {
+    margin:2rem;
+  }
+  #project-square {
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content:space-evenly;
+  }
+  .thumbnail {
+    width: 75%; 
+    border-radius: 15px; 
+    height: auto;  
+    margin: 10%;  
+  }

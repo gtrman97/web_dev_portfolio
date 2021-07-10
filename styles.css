@@ -102,3 +102,8 @@ html {
     padding: 3%; 
   
   }
+  @media (min-width: 600px) {
+    body {
+      text-align: center; 
+    }
+  } 

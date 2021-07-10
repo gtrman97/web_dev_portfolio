@@ -84,3 +84,21 @@ html {
       padding: 35px;   
       position: relative;   
   }
+  #profile-pic {
+    border-radius: 50%; 
+    width: 100%;
+    height: auto; 
+  }
+  #link {
+    border-top: 2px solid black;
+    padding: 5%;  
+    background: linear-gradient(175deg, brown, black);  
+  
+  }
+  #profile-link {
+    border: 5px solid green; 
+    border-radius: 45px; 
+    background-color: lightgreen; 
+    padding: 3%; 
+  
+  }

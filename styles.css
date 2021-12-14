@@ -33,14 +33,6 @@ html {
     margin: 30px 40px;
   
   }
-  a.nav-link:hover {
-    border: solid 2px red; 
-    border-radius: 50%;
-    background-color: red;
-    box-shadow: 5px 10px white;
-
-    
-  }
   #projects {
     margin-top:2rem;
     display: flex;  
